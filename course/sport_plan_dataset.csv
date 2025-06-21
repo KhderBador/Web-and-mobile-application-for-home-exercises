@@ -1,0 +1,1005 @@
+age,tall,weight,main_goal,physical_level,sport_plan_id
+22,163,78,fitness,beginner,1
+47,199,87,weight loss,intermediate,2
+50,189,75,muscle building,beginner,6
+45,170,82,weight loss,advanced,4
+60,176,88,weight loss,beginner,8
+32,188,92,fitness,advanced,6
+60,180,95,muscle building,beginner,6
+44,173,101,weight loss,beginner,8
+45,165,102,fitness,intermediate,4
+23,163,92,fitness,intermediate,3
+20,176,82,weight loss,intermediate,1
+42,192,68,fitness,intermediate,4
+58,168,61,muscle building,beginner,5
+32,171,63,weight loss,advanced,3
+58,162,109,muscle building,advanced,2
+18,150,103,weight loss,beginner,7
+53,179,85,weight loss,advanced,4
+20,160,115,muscle building,advanced,1
+58,161,98,fitness,intermediate,4
+49,197,92,weight loss,advanced,4
+58,189,87,muscle building,intermediate,8
+26,173,104,weight loss,beginner,7
+32,154,51,fitness,beginner,1
+54,175,82,fitness,beginner,2
+20,181,74,fitness,beginner,1
+43,181,111,weight loss,intermediate,2
+36,189,96,weight loss,beginner,8
+54,167,116,weight loss,beginner,8
+19,183,70,fitness,intermediate,3
+18,177,76,weight loss,beginner,7
+51,196,111,muscle building,advanced,2
+41,150,79,fitness,beginner,1
+36,154,68,muscle building,advanced,1
+26,183,77,muscle building,intermediate,7
+34,197,63,fitness,advanced,6
+46,198,101,muscle building,advanced,2
+19,151,54,weight loss,advanced,3
+49,196,52,fitness,advanced,6
+33,186,83,weight loss,advanced,4
+43,170,56,muscle building,advanced,1
+55,178,108,weight loss,intermediate,2
+57,183,92,muscle building,intermediate,8
+54,180,94,fitness,intermediate,4
+46,167,118,weight loss,intermediate,2
+44,178,101,fitness,advanced,6
+24,192,70,muscle building,beginner,5
+21,178,96,weight loss,intermediate,1
+50,176,88,weight loss,intermediate,2
+47,160,103,fitness,advanced,6
+37,176,104,weight loss,beginner,8
+26,169,50,muscle building,intermediate,7
+38,199,104,fitness,intermediate,4
+56,183,53,fitness,advanced,6
+44,180,55,muscle building,advanced,1
+21,159,117,weight loss,beginner,7
+26,198,86,fitness,beginner,2
+28,153,114,fitness,advanced,5
+31,172,110,muscle building,intermediate,8
+26,187,93,fitness,beginner,2
+36,200,104,fitness,intermediate,4
+47,179,92,fitness,intermediate,4
+60,172,53,weight loss,beginner,7
+49,151,104,fitness,intermediate,4
+42,191,66,muscle building,advanced,2
+25,171,61,muscle building,advanced,1
+56,182,78,fitness,intermediate,4
+28,180,75,weight loss,intermediate,1
+53,173,53,weight loss,intermediate,1
+20,160,76,fitness,beginner,1
+43,175,112,weight loss,beginner,8
+42,196,102,muscle building,intermediate,8
+31,172,54,muscle building,advanced,1
+49,200,80,muscle building,intermediate,8
+57,160,55,fitness,intermediate,3
+40,174,99,muscle building,intermediate,8
+27,181,116,fitness,beginner,2
+30,170,120,muscle building,intermediate,8
+49,164,109,fitness,beginner,2
+37,197,116,fitness,beginner,2
+53,155,105,weight loss,intermediate,2
+23,198,80,weight loss,beginner,8
+40,166,96,weight loss,beginner,8
+39,195,61,muscle building,beginner,6
+40,199,93,fitness,intermediate,4
+52,179,53,weight loss,intermediate,1
+33,161,119,fitness,beginner,2
+42,162,84,muscle building,advanced,1
+55,194,77,muscle building,advanced,2
+23,200,102,fitness,advanced,6
+52,164,66,weight loss,beginner,7
+22,160,118,muscle building,beginner,5
+45,179,95,weight loss,intermediate,2
+42,160,80,weight loss,intermediate,1
+43,171,110,fitness,intermediate,4
+35,192,75,fitness,beginner,2
+55,166,104,muscle building,advanced,2
+55,196,98,fitness,advanced,6
+48,172,117,weight loss,intermediate,2
+38,184,56,fitness,advanced,5
+30,196,73,muscle building,beginner,6
+23,184,95,fitness,beginner,1
+59,190,74,fitness,intermediate,4
+42,163,62,fitness,advanced,5
+44,169,109,fitness,advanced,6
+44,154,74,muscle building,beginner,5
+26,166,84,fitness,beginner,1
+41,162,107,fitness,intermediate,4
+24,173,96,muscle building,advanced,1
+52,150,68,muscle building,beginner,5
+24,154,92,muscle building,intermediate,7
+55,190,108,fitness,intermediate,4
+58,191,66,weight loss,intermediate,2
+38,191,77,fitness,beginner,2
+50,178,103,fitness,advanced,6
+25,175,107,weight loss,advanced,3
+24,156,73,muscle building,advanced,1
+24,198,105,muscle building,beginner,6
+38,193,81,muscle building,beginner,6
+49,163,52,muscle building,advanced,1
+34,191,77,weight loss,intermediate,2
+37,185,110,fitness,intermediate,4
+25,151,79,fitness,advanced,5
+18,165,100,muscle building,intermediate,7
+40,189,103,muscle building,beginner,6
+36,200,113,weight loss,advanced,4
+18,196,64,fitness,advanced,5
+40,172,112,muscle building,intermediate,8
+19,186,92,fitness,intermediate,3
+47,151,69,fitness,advanced,5
+36,163,86,weight loss,intermediate,1
+48,151,71,fitness,beginner,1
+45,187,72,weight loss,beginner,8
+35,172,103,muscle building,beginner,6
+23,193,78,fitness,intermediate,3
+18,174,109,muscle building,advanced,1
+60,185,105,muscle building,advanced,2
+43,167,77,muscle building,beginner,5
+60,182,58,fitness,intermediate,4
+42,178,100,fitness,beginner,2
+19,162,72,muscle building,intermediate,7
+30,150,107,weight loss,advanced,3
+42,155,120,fitness,advanced,6
+20,163,50,fitness,beginner,1
+28,180,71,fitness,intermediate,3
+19,159,76,fitness,advanced,5
+18,196,109,fitness,advanced,6
+32,180,118,muscle building,intermediate,8
+27,170,116,weight loss,intermediate,2
+52,193,93,weight loss,advanced,4
+33,197,89,weight loss,advanced,4
+41,156,89,fitness,intermediate,3
+44,191,120,weight loss,beginner,8
+51,191,84,fitness,beginner,2
+51,178,116,weight loss,advanced,4
+19,190,95,fitness,advanced,5
+22,174,83,weight loss,beginner,7
+56,194,101,weight loss,intermediate,2
+30,184,85,muscle building,intermediate,7
+20,194,98,muscle building,advanced,2
+39,166,90,fitness,beginner,1
+18,153,76,weight loss,advanced,3
+54,163,96,muscle building,advanced,2
+59,183,55,muscle building,intermediate,8
+33,195,104,muscle building,advanced,2
+18,179,84,fitness,beginner,1
+25,169,84,weight loss,beginner,7
+18,161,89,muscle building,intermediate,7
+48,192,67,fitness,intermediate,4
+29,185,86,weight loss,intermediate,1
+25,196,87,fitness,intermediate,4
+29,198,85,fitness,intermediate,4
+44,162,50,muscle building,beginner,5
+58,200,57,muscle building,beginner,6
+38,186,98,muscle building,beginner,6
+21,180,64,weight loss,intermediate,1
+52,164,63,weight loss,beginner,7
+23,194,70,weight loss,advanced,3
+59,197,56,muscle building,intermediate,8
+50,197,50,muscle building,advanced,2
+43,189,116,fitness,advanced,6
+58,198,113,muscle building,beginner,6
+42,175,90,weight loss,advanced,4
+35,167,67,muscle building,beginner,5
+19,187,108,fitness,advanced,6
+31,151,114,fitness,advanced,5
+30,165,79,weight loss,beginner,7
+20,184,54,muscle building,beginner,5
+53,150,107,fitness,advanced,6
+26,163,100,muscle building,beginner,5
+27,185,71,fitness,beginner,1
+60,164,102,fitness,intermediate,4
+37,194,65,muscle building,intermediate,8
+26,175,100,muscle building,intermediate,7
+43,160,84,fitness,intermediate,3
+44,155,91,weight loss,advanced,3
+48,187,104,weight loss,intermediate,2
+25,162,65,weight loss,intermediate,1
+29,186,80,fitness,advanced,5
+52,169,103,muscle building,advanced,2
+56,159,112,fitness,beginner,2
+33,196,115,muscle building,advanced,2
+47,187,85,muscle building,advanced,2
+57,187,67,muscle building,advanced,2
+42,165,115,fitness,advanced,6
+40,161,75,weight loss,intermediate,1
+59,187,78,fitness,beginner,2
+36,175,68,fitness,intermediate,3
+22,170,73,fitness,intermediate,3
+48,181,65,muscle building,intermediate,8
+44,194,105,fitness,intermediate,4
+54,181,56,muscle building,intermediate,8
+36,191,51,fitness,beginner,1
+37,183,116,weight loss,advanced,4
+38,157,54,weight loss,beginner,7
+49,160,64,fitness,advanced,5
+48,171,83,weight loss,intermediate,2
+49,178,61,fitness,advanced,5
+40,162,103,muscle building,beginner,6
+50,171,77,fitness,intermediate,4
+24,166,102,fitness,intermediate,3
+34,172,117,muscle building,intermediate,8
+52,191,81,fitness,beginner,2
+18,152,87,fitness,advanced,5
+53,159,99,muscle building,advanced,2
+31,158,119,fitness,intermediate,3
+18,153,95,fitness,advanced,5
+20,195,51,weight loss,advanced,3
+25,175,56,fitness,advanced,5
+52,186,66,muscle building,intermediate,8
+41,157,111,weight loss,intermediate,2
+52,176,114,fitness,advanced,6
+31,170,60,fitness,beginner,1
+41,183,50,muscle building,beginner,5
+58,161,105,weight loss,advanced,4
+60,189,97,weight loss,advanced,4
+45,168,85,muscle building,advanced,2
+39,180,73,weight loss,beginner,7
+60,158,109,muscle building,beginner,6
+56,171,58,muscle building,advanced,1
+27,167,104,fitness,beginner,1
+58,188,76,weight loss,advanced,4
+20,155,67,muscle building,intermediate,7
+26,186,65,fitness,beginner,1
+51,180,81,fitness,intermediate,4
+53,158,51,muscle building,beginner,5
+48,165,57,fitness,beginner,1
+43,163,69,fitness,beginner,1
+29,165,115,fitness,advanced,5
+27,151,53,muscle building,advanced,1
+27,178,71,muscle building,advanced,1
+28,198,90,fitness,intermediate,4
+30,162,65,fitness,advanced,5
+41,183,61,muscle building,intermediate,7
+47,160,53,fitness,advanced,5
+21,198,91,weight loss,advanced,4
+31,170,75,muscle building,beginner,5
+45,174,80,weight loss,intermediate,2
+60,177,78,muscle building,beginner,6
+19,188,95,weight loss,beginner,7
+20,151,99,weight loss,advanced,3
+55,169,67,muscle building,advanced,2
+52,157,51,fitness,intermediate,3
+46,182,117,fitness,advanced,6
+34,154,98,muscle building,beginner,5
+39,165,114,fitness,beginner,2
+36,184,102,weight loss,intermediate,2
+28,157,95,muscle building,beginner,5
+20,153,59,weight loss,beginner,7
+45,171,111,weight loss,intermediate,2
+49,191,100,fitness,beginner,2
+42,199,114,muscle building,beginner,6
+50,199,111,muscle building,beginner,6
+60,176,67,weight loss,advanced,4
+38,189,78,weight loss,intermediate,2
+22,184,103,fitness,beginner,2
+37,156,95,weight loss,intermediate,1
+48,183,78,weight loss,advanced,4
+43,187,66,fitness,beginner,2
+40,159,95,muscle building,intermediate,7
+49,178,59,weight loss,advanced,3
+29,188,57,fitness,intermediate,3
+39,151,74,muscle building,intermediate,7
+38,174,100,muscle building,intermediate,8
+21,168,60,weight loss,intermediate,1
+37,180,96,fitness,beginner,2
+21,169,110,fitness,beginner,1
+53,161,95,muscle building,intermediate,8
+24,189,68,muscle building,beginner,5
+28,156,97,weight loss,advanced,3
+28,189,57,weight loss,beginner,7
+37,183,50,muscle building,advanced,1
+21,180,86,fitness,advanced,5
+42,197,89,fitness,beginner,2
+55,181,60,fitness,beginner,2
+45,175,83,muscle building,intermediate,8
+33,157,54,fitness,beginner,1
+24,154,106,muscle building,advanced,1
+37,199,58,fitness,beginner,2
+51,189,99,fitness,advanced,6
+51,162,71,weight loss,beginner,7
+51,191,100,muscle building,advanced,2
+35,190,93,muscle building,advanced,2
+54,161,52,fitness,intermediate,3
+58,173,60,fitness,beginner,2
+18,164,67,fitness,advanced,5
+49,155,109,weight loss,intermediate,2
+42,194,115,weight loss,intermediate,2
+47,185,86,weight loss,intermediate,2
+52,169,66,muscle building,beginner,5
+43,158,94,weight loss,advanced,3
+27,183,64,muscle building,intermediate,7
+18,169,71,weight loss,intermediate,1
+27,180,86,weight loss,intermediate,1
+21,173,77,muscle building,advanced,1
+31,151,54,muscle building,advanced,1
+23,159,60,weight loss,intermediate,1
+35,197,58,fitness,beginner,1
+31,157,78,fitness,intermediate,3
+27,183,75,fitness,intermediate,3
+23,183,92,muscle building,intermediate,7
+18,151,82,muscle building,advanced,1
+19,157,98,weight loss,intermediate,1
+55,158,106,fitness,beginner,2
+33,150,81,muscle building,intermediate,7
+27,186,69,weight loss,advanced,3
+58,153,118,weight loss,intermediate,2
+39,180,54,weight loss,beginner,7
+28,171,106,weight loss,beginner,7
+22,175,50,fitness,advanced,5
+26,197,84,fitness,beginner,2
+26,172,89,muscle building,advanced,1
+51,168,72,muscle building,beginner,5
+38,197,109,fitness,intermediate,4
+52,150,64,muscle building,beginner,5
+25,195,52,muscle building,beginner,5
+50,182,101,muscle building,intermediate,8
+54,174,60,fitness,beginner,1
+43,166,95,weight loss,advanced,4
+58,191,83,muscle building,advanced,2
+42,171,64,weight loss,beginner,7
+57,157,113,fitness,intermediate,4
+20,158,106,weight loss,beginner,7
+58,154,66,weight loss,beginner,7
+51,199,116,fitness,advanced,6
+37,187,97,muscle building,beginner,6
+32,162,109,weight loss,advanced,3
+55,161,103,muscle building,beginner,6
+42,167,106,weight loss,intermediate,2
+59,165,105,weight loss,beginner,8
+28,194,114,weight loss,advanced,4
+30,152,120,fitness,intermediate,3
+43,188,70,muscle building,beginner,6
+42,152,80,fitness,intermediate,3
+36,163,75,muscle building,advanced,1
+23,165,62,weight loss,intermediate,1
+38,187,56,fitness,beginner,1
+31,172,59,muscle building,intermediate,7
+45,154,77,fitness,intermediate,3
+25,179,61,weight loss,beginner,7
+20,171,85,weight loss,beginner,7
+50,155,101,weight loss,advanced,4
+27,193,73,weight loss,beginner,7
+27,188,79,muscle building,intermediate,7
+33,163,56,fitness,beginner,1
+23,180,116,muscle building,advanced,2
+19,161,88,weight loss,advanced,3
+28,182,53,weight loss,advanced,3
+21,186,112,weight loss,intermediate,2
+57,181,110,muscle building,advanced,2
+57,199,94,muscle building,intermediate,8
+27,193,120,weight loss,beginner,8
+24,183,67,weight loss,advanced,3
+27,185,75,muscle building,beginner,5
+55,184,82,muscle building,intermediate,8
+21,164,85,muscle building,beginner,5
+52,172,120,weight loss,intermediate,2
+21,185,58,weight loss,beginner,7
+58,174,94,weight loss,beginner,8
+28,186,114,fitness,beginner,2
+47,172,107,muscle building,intermediate,8
+25,194,97,muscle building,advanced,2
+29,151,55,fitness,beginner,1
+18,180,64,fitness,beginner,1
+30,200,94,muscle building,intermediate,8
+57,190,77,fitness,beginner,2
+35,195,102,muscle building,beginner,6
+42,177,51,fitness,intermediate,3
+41,172,109,muscle building,intermediate,8
+58,174,100,fitness,advanced,6
+52,173,115,fitness,intermediate,4
+50,197,56,weight loss,intermediate,2
+43,177,51,fitness,intermediate,3
+46,169,112,fitness,intermediate,4
+53,170,92,weight loss,advanced,4
+18,159,67,fitness,advanced,5
+59,191,102,fitness,intermediate,4
+24,185,66,weight loss,advanced,3
+38,159,74,muscle building,beginner,5
+26,165,63,weight loss,beginner,7
+56,160,81,weight loss,beginner,8
+34,196,90,fitness,advanced,6
+31,189,90,weight loss,intermediate,2
+53,183,108,fitness,intermediate,4
+53,172,100,weight loss,advanced,4
+22,184,63,weight loss,intermediate,1
+37,170,79,weight loss,intermediate,1
+23,192,85,fitness,intermediate,3
+25,198,101,fitness,advanced,6
+18,175,79,muscle building,advanced,1
+22,163,80,weight loss,beginner,7
+49,182,117,muscle building,beginner,6
+60,164,99,muscle building,beginner,6
+44,186,68,muscle building,intermediate,8
+25,198,111,fitness,advanced,6
+59,153,64,weight loss,advanced,3
+32,160,50,fitness,intermediate,3
+28,154,80,fitness,beginner,1
+59,185,84,weight loss,advanced,4
+51,163,97,muscle building,intermediate,8
+58,169,79,weight loss,intermediate,2
+40,190,110,muscle building,beginner,6
+58,178,92,fitness,beginner,2
+60,170,64,muscle building,beginner,6
+46,198,53,muscle building,intermediate,8
+40,180,117,fitness,intermediate,4
+57,168,67,fitness,intermediate,4
+19,188,110,muscle building,advanced,2
+45,157,85,fitness,beginner,1
+29,190,51,muscle building,beginner,5
+31,182,64,fitness,advanced,5
+43,158,110,fitness,beginner,2
+52,163,109,fitness,advanced,6
+58,175,66,weight loss,intermediate,2
+53,174,97,muscle building,intermediate,8
+40,178,77,muscle building,intermediate,7
+35,189,94,muscle building,beginner,6
+55,178,101,muscle building,advanced,2
+39,180,104,weight loss,intermediate,2
+29,195,51,muscle building,beginner,5
+43,199,112,fitness,beginner,2
+28,178,105,muscle building,intermediate,8
+42,200,77,muscle building,advanced,2
+38,155,62,muscle building,intermediate,7
+20,164,79,muscle building,beginner,5
+29,186,102,fitness,intermediate,4
+58,169,53,muscle building,beginner,5
+50,189,89,weight loss,beginner,8
+58,183,119,fitness,advanced,6
+35,160,92,muscle building,beginner,5
+40,150,89,fitness,advanced,5
+39,198,112,muscle building,advanced,2
+34,197,116,weight loss,advanced,4
+45,181,77,fitness,intermediate,4
+32,200,88,fitness,beginner,2
+34,157,102,muscle building,intermediate,7
+18,172,114,muscle building,advanced,1
+26,152,63,weight loss,beginner,7
+49,192,93,weight loss,intermediate,2
+36,181,88,weight loss,advanced,4
+39,193,88,weight loss,beginner,8
+37,154,97,muscle building,advanced,1
+20,175,99,weight loss,advanced,3
+56,195,104,weight loss,beginner,8
+18,183,91,weight loss,beginner,7
+26,158,87,fitness,advanced,5
+25,162,119,muscle building,advanced,1
+23,183,64,muscle building,beginner,5
+20,200,110,weight loss,beginner,8
+26,173,94,weight loss,advanced,3
+19,155,100,weight loss,intermediate,1
+48,190,77,muscle building,advanced,2
+32,164,96,weight loss,beginner,7
+59,154,110,muscle building,advanced,2
+29,170,57,fitness,advanced,5
+25,152,113,weight loss,advanced,3
+26,157,87,fitness,advanced,5
+31,197,110,weight loss,beginner,8
+48,191,60,weight loss,advanced,4
+56,177,103,fitness,advanced,6
+56,157,65,fitness,beginner,1
+22,151,83,weight loss,intermediate,1
+50,154,66,weight loss,advanced,3
+33,179,171,weight loss,beginner,8
+28,150,102,weight loss,intermediate,1
+52,186,85,muscle building,intermediate,8
+43,179,107,muscle building,beginner,6
+48,179,107,muscle building,beginner,6
+44,154,70,muscle building,intermediate,7
+45,185,70,fitness,intermediate,4
+35,172,95,weight loss,intermediate,1
+42,185,89,muscle building,advanced,2
+80,170,52,muscle building,intermediate,7
+39,181,116,muscle building,advanced,2
+20,168,82,weight loss,intermediate,1
+48,152,76,fitness,intermediate,3
+41,184,51,weight loss,intermediate,1
+43,188,94,weight loss,advanced,4
+29,195,111,weight loss,beginner,8
+49,157,101,fitness,intermediate,4
+88,186,64,fitness,advanced,6
+26,169,103,muscle building,advanced,1
+39,192,83,muscle building,beginner,6
+57,176,88,muscle building,advanced,2
+24,190,116,muscle building,intermediate,8
+57,184,77,muscle building,beginner,6
+23,163,72,fitness,advanced,5
+43,130,81,fitness,advanced,5
+59,189,104,weight loss,advanced,4
+41,170,91,muscle building,advanced,2
+21,193,63,fitness,beginner,1
+59,165,78,weight loss,advanced,4
+21,182,68,muscle building,beginner,5
+24,174,80,fitness,advanced,5
+27,183,77,weight loss,intermediate,1
+21,159,87,weight loss,intermediate,1
+49,194,50,fitness,intermediate,4
+54,168,85,muscle building,intermediate,8
+59,150,80,weight loss,beginner,7
+22,184,118,muscle building,intermediate,8
+59,153,71,fitness,advanced,5
+26,188,59,muscle building,intermediate,7
+24,151,119,weight loss,beginner,7
+27,181,106,weight loss,advanced,4
+38,185,93,fitness,beginner,2
+27,120,52,fitness,beginner,1
+24,172,53,muscle building,advanced,1
+23,185,92,fitness,advanced,5
+58,154,91,weight loss,advanced,4
+20,155,75,weight loss,advanced,3
+21,159,101,fitness,beginner,1
+36,186,91,muscle building,beginner,6
+29,186,52,weight loss,beginner,7
+60,193,55,fitness,intermediate,4
+41,200,104,muscle building,advanced,2
+24,192,52,fitness,intermediate,3
+58,111,91,weight loss,advanced,4
+21,186,82,muscle building,beginner,5
+35,191,93,fitness,intermediate,4
+34,177,69,fitness,intermediate,3
+40,181,90,fitness,advanced,6
+60,178,64,fitness,intermediate,4
+26,167,92,muscle building,intermediate,7
+20,152,117,fitness,advanced,5
+44,191,75,fitness,beginner,2
+45,191,85,weight loss,beginner,8
+54,184,117,weight loss,advanced,4
+50,164,91,weight loss,intermediate,2
+59,180,82,weight loss,intermediate,2
+37,166,59,muscle building,beginner,5
+26,170,58,weight loss,beginner,7
+55,172,110,weight loss,beginner,8
+19,186,83,muscle building,intermediate,7
+21,195,106,weight loss,intermediate,2
+36,200,40,weight loss,intermediate,2
+30,180,67,weight loss,advanced,3
+27,168,76,fitness,beginner,1
+18,172,91,muscle building,beginner,5
+53,158,114,muscle building,advanced,2
+42,150,82,weight loss,beginner,7
+27,175,114,weight loss,beginner,8
+25,155,50,fitness,advanced,5
+29,189,80,weight loss,intermediate,1
+25,183,71,fitness,intermediate,3
+57,176,94,weight loss,beginner,8
+43,179,61,weight loss,advanced,3
+60,190,64,weight loss,beginner,8
+55,192,69,muscle building,advanced,2
+30,165,87,weight loss,beginner,7
+53,161,82,fitness,beginner,2
+18,173,87,weight loss,intermediate,1
+25,182,119,weight loss,intermediate,2
+45,159,109,fitness,advanced,6
+40,170,103,muscle building,intermediate,8
+56,152,40,muscle building,intermediate,7
+43,180,113,weight loss,advanced,4
+35,156,109,weight loss,intermediate,1
+22,175,59,fitness,beginner,1
+22,181,54,weight loss,intermediate,1
+57,186,111,weight loss,intermediate,2
+54,188,94,weight loss,beginner,8
+23,196,58,muscle building,beginner,5
+60,161,83,weight loss,beginner,8
+22,158,83,fitness,beginner,1
+51,153,35,fitness,intermediate,4
+24,169,88,muscle building,beginner,5
+49,182,94,fitness,advanced,6
+37,165,100,muscle building,beginner,5
+35,163,69,muscle building,intermediate,7
+47,169,113,fitness,intermediate,4
+58,164,60,muscle building,beginner,5
+29,159,105,fitness,advanced,5
+52,182,91,fitness,beginner,2
+35,172,99,fitness,intermediate,4
+32,157,57,fitness,advanced,5
+39,168,101,weight loss,beginner,8
+53,171,63,fitness,beginner,1
+36,189,54,muscle building,advanced,1
+32,179,50,muscle building,advanced,1
+39,151,100,fitness,advanced,5
+22,150,58,fitness,advanced,5
+50,196,67,weight loss,intermediate,2
+24,178,83,muscle building,advanced,1
+22,193,98,weight loss,intermediate,2
+45,180,60,fitness,intermediate,3
+30,186,96,weight loss,intermediate,2
+47,176,104,fitness,beginner,2
+35,168,106,muscle building,advanced,2
+18,189,117,fitness,intermediate,4
+32,177,85,muscle building,advanced,1
+50,173,51,muscle building,beginner,5
+49,169,93,muscle building,intermediate,8
+27,198,100,muscle building,intermediate,8
+22,171,73,fitness,beginner,1
+21,166,112,fitness,advanced,5
+36,180,52,fitness,intermediate,3
+53,197,99,muscle building,beginner,6
+29,156,119,muscle building,beginner,5
+56,197,97,muscle building,intermediate,8
+42,159,64,weight loss,advanced,3
+51,157,82,fitness,beginner,1
+55,150,58,muscle building,advanced,1
+35,180,95,weight loss,intermediate,2
+55,162,81,muscle building,advanced,2
+43,162,114,fitness,advanced,6
+27,192,54,fitness,beginner,1
+46,150,109,weight loss,advanced,4
+58,169,113,fitness,beginner,2
+26,169,113,muscle building,advanced,1
+35,194,90,muscle building,advanced,2
+51,190,81,muscle building,beginner,6
+28,159,93,weight loss,beginner,7
+42,159,54,fitness,beginner,1
+21,192,101,muscle building,advanced,2
+32,198,79,fitness,beginner,2
+52,153,93,fitness,intermediate,3
+50,198,71,muscle building,advanced,2
+19,158,57,weight loss,beginner,7
+59,192,55,fitness,beginner,2
+31,163,110,muscle building,intermediate,7
+25,154,83,muscle building,advanced,1
+51,168,93,muscle building,intermediate,8
+36,159,76,muscle building,beginner,5
+31,161,89,muscle building,advanced,1
+27,169,73,muscle building,beginner,5
+59,170,81,muscle building,intermediate,8
+18,159,74,muscle building,intermediate,7
+22,179,59,weight loss,intermediate,1
+54,186,101,weight loss,advanced,4
+53,180,78,weight loss,beginner,8
+39,177,77,fitness,advanced,5
+39,170,117,muscle building,intermediate,8
+36,171,86,fitness,beginner,1
+22,157,73,fitness,advanced,5
+42,186,56,weight loss,intermediate,1
+30,156,64,muscle building,intermediate,7
+29,161,62,fitness,advanced,5
+36,173,117,muscle building,beginner,6
+41,184,76,fitness,beginner,2
+53,196,86,muscle building,beginner,6
+50,174,88,weight loss,intermediate,2
+35,170,101,weight loss,beginner,8
+43,162,54,fitness,advanced,5
+50,186,59,muscle building,beginner,6
+37,196,88,fitness,intermediate,4
+22,156,87,weight loss,beginner,7
+26,186,96,weight loss,beginner,8
+37,187,52,fitness,advanced,5
+29,187,110,fitness,advanced,6
+42,180,94,weight loss,beginner,8
+36,165,82,muscle building,beginner,5
+44,159,78,weight loss,beginner,7
+60,151,93,muscle building,intermediate,8
+59,154,78,weight loss,intermediate,1
+40,168,106,fitness,advanced,6
+41,157,54,weight loss,beginner,7
+50,191,72,fitness,advanced,6
+19,199,115,fitness,intermediate,4
+50,163,71,muscle building,beginner,5
+41,155,86,muscle building,intermediate,7
+27,188,59,weight loss,intermediate,1
+43,184,109,weight loss,beginner,8
+24,151,80,muscle building,intermediate,7
+59,159,56,fitness,advanced,5
+31,194,97,fitness,advanced,6
+29,187,95,fitness,intermediate,4
+32,184,92,fitness,advanced,6
+58,152,67,muscle building,intermediate,7
+35,151,72,muscle building,beginner,5
+58,173,71,weight loss,advanced,4
+44,195,69,muscle building,beginner,6
+54,197,69,weight loss,beginner,8
+31,180,115,fitness,intermediate,4
+38,163,119,weight loss,advanced,4
+35,163,74,muscle building,advanced,1
+51,171,76,weight loss,beginner,8
+32,180,110,weight loss,beginner,8
+24,199,106,muscle building,intermediate,8
+25,176,104,fitness,beginner,1
+41,194,61,weight loss,advanced,4
+26,182,86,muscle building,beginner,5
+23,179,102,fitness,advanced,5
+36,183,107,weight loss,beginner,8
+48,199,113,fitness,advanced,6
+19,199,118,muscle building,beginner,6
+60,156,89,muscle building,beginner,6
+58,152,87,fitness,advanced,6
+23,154,113,fitness,intermediate,3
+20,173,74,muscle building,advanced,1
+37,176,83,muscle building,advanced,1
+36,198,52,weight loss,advanced,3
+18,192,65,fitness,intermediate,3
+24,151,119,muscle building,intermediate,7
+35,171,70,muscle building,beginner,5
+52,151,75,fitness,advanced,5
+60,197,56,weight loss,beginner,8
+24,156,80,muscle building,advanced,1
+45,174,51,fitness,advanced,5
+37,180,75,muscle building,beginner,5
+31,164,95,fitness,intermediate,3
+41,167,64,weight loss,beginner,7
+42,164,103,fitness,advanced,6
+58,176,50,weight loss,beginner,7
+30,161,78,weight loss,beginner,7
+57,166,71,muscle building,beginner,6
+48,189,81,weight loss,beginner,8
+21,153,67,muscle building,intermediate,7
+52,159,56,weight loss,advanced,3
+44,200,86,fitness,intermediate,4
+45,194,78,fitness,intermediate,4
+55,151,100,muscle building,intermediate,8
+28,180,106,weight loss,beginner,8
+50,166,92,fitness,intermediate,4
+55,163,58,fitness,advanced,5
+20,158,56,weight loss,intermediate,1
+60,155,82,weight loss,advanced,4
+25,197,75,muscle building,advanced,1
+44,164,110,fitness,intermediate,4
+47,163,88,muscle building,beginner,5
+53,180,82,fitness,advanced,6
+34,180,59,muscle building,advanced,1
+58,158,77,muscle building,beginner,5
+28,158,57,weight loss,advanced,3
+21,173,67,muscle building,advanced,1
+54,165,77,weight loss,beginner,8
+30,187,93,weight loss,beginner,8
+29,166,114,weight loss,beginner,7
+46,194,77,muscle building,intermediate,8
+38,151,67,muscle building,beginner,5
+18,160,71,weight loss,advanced,3
+60,180,102,fitness,intermediate,4
+43,192,50,fitness,intermediate,3
+31,185,95,fitness,advanced,6
+22,196,108,muscle building,beginner,6
+55,167,59,muscle building,beginner,5
+21,186,105,fitness,advanced,6
+39,156,62,fitness,advanced,5
+24,187,50,fitness,intermediate,3
+34,157,72,muscle building,advanced,1
+28,174,93,fitness,intermediate,3
+29,164,64,weight loss,intermediate,1
+38,167,73,muscle building,beginner,5
+46,200,113,weight loss,advanced,4
+18,199,86,fitness,beginner,1
+50,155,94,weight loss,intermediate,1
+19,193,59,fitness,advanced,5
+43,178,78,weight loss,beginner,8
+32,190,91,muscle building,intermediate,8
+46,181,77,fitness,advanced,6
+47,157,119,muscle building,beginner,6
+22,176,74,weight loss,beginner,7
+56,152,103,fitness,advanced,6
+31,182,54,fitness,advanced,5
+43,181,74,fitness,intermediate,4
+29,174,72,weight loss,advanced,3
+44,196,50,fitness,advanced,6
+51,189,95,muscle building,beginner,6
+37,196,74,fitness,intermediate,4
+58,169,63,muscle building,beginner,6
+35,162,50,fitness,intermediate,3
+25,155,103,muscle building,intermediate,7
+57,155,94,muscle building,intermediate,8
+28,187,64,fitness,intermediate,3
+27,158,67,weight loss,beginner,7
+42,162,50,muscle building,beginner,5
+24,167,69,fitness,advanced,5
+49,152,97,muscle building,intermediate,7
+32,150,69,muscle building,intermediate,7
+47,179,93,fitness,advanced,6
+47,165,94,muscle building,beginner,6
+59,183,94,weight loss,beginner,8
+44,174,54,fitness,advanced,5
+48,163,111,fitness,advanced,6
+32,160,117,weight loss,advanced,3
+59,182,71,weight loss,advanced,4
+41,178,106,fitness,advanced,6
+37,188,76,muscle building,beginner,6
+19,185,107,muscle building,intermediate,8
+22,179,69,muscle building,beginner,5
+20,150,53,muscle building,beginner,5
+42,172,111,fitness,advanced,6
+35,193,62,weight loss,beginner,7
+26,166,90,fitness,advanced,5
+56,184,95,muscle building,intermediate,8
+49,183,119,fitness,advanced,6
+37,199,111,muscle building,intermediate,8
+20,190,86,weight loss,beginner,7
+35,154,98,muscle building,intermediate,7
+33,153,82,weight loss,advanced,3
+48,184,107,fitness,intermediate,4
+44,166,119,fitness,intermediate,4
+22,166,83,muscle building,beginner,5
+31,199,90,muscle building,intermediate,8
+48,182,99,weight loss,advanced,4
+45,192,101,weight loss,beginner,8
+55,178,56,muscle building,beginner,6
+34,159,98,weight loss,advanced,3
+22,157,119,weight loss,advanced,3
+35,167,62,weight loss,beginner,7
+53,200,91,weight loss,advanced,4
+57,199,53,muscle building,beginner,6
+55,198,118,weight loss,advanced,4
+46,182,114,weight loss,beginner,8
+22,169,70,weight loss,beginner,7
+35,181,52,fitness,intermediate,3
+41,153,84,weight loss,beginner,7
+32,196,118,weight loss,beginner,8
+33,156,76,weight loss,advanced,3
+56,158,114,muscle building,intermediate,8
+19,157,78,weight loss,advanced,3
+60,154,82,fitness,intermediate,4
+35,199,114,weight loss,advanced,4
+42,155,73,weight loss,beginner,7
+35,164,57,weight loss,beginner,7
+36,154,81,weight loss,advanced,3
+19,187,63,muscle building,beginner,5
+48,161,96,weight loss,advanced,4
+60,176,79,fitness,intermediate,4
+37,173,120,muscle building,beginner,6
+46,193,82,weight loss,advanced,4
+49,180,89,weight loss,beginner,8
+56,153,83,weight loss,advanced,3
+23,194,84,weight loss,beginner,7
+59,177,113,muscle building,intermediate,8
+57,199,67,weight loss,advanced,4
+58,170,50,weight loss,beginner,7
+50,176,82,weight loss,beginner,8
+42,185,108,muscle building,beginner,6
+36,152,92,weight loss,beginner,7
+24,195,72,fitness,advanced,5
+22,192,77,fitness,advanced,5
+24,196,119,muscle building,intermediate,8
+46,176,98,weight loss,advanced,4
+37,150,59,fitness,advanced,5
+56,176,93,muscle building,beginner,6
+59,162,107,weight loss,beginner,8
+37,151,52,fitness,intermediate,3
+21,153,51,weight loss,beginner,7
+39,193,71,fitness,intermediate,4
+25,184,72,weight loss,beginner,7
+53,176,70,fitness,advanced,6
+38,195,85,fitness,advanced,6
+52,160,57,muscle building,intermediate,7
+32,153,57,muscle building,intermediate,7
+30,153,60,weight loss,advanced,3
+43,175,111,weight loss,advanced,4
+34,199,100,weight loss,beginner,8
+42,179,96,weight loss,advanced,4
+58,193,61,muscle building,intermediate,8
+45,165,89,fitness,advanced,6
+59,169,108,fitness,advanced,6
+46,198,111,muscle building,beginner,6
+55,176,60,muscle building,intermediate,8
+55,170,96,fitness,advanced,6
+41,181,99,muscle building,intermediate,8
+18,195,54,fitness,advanced,5
+18,181,99,fitness,advanced,5
+56,161,118,weight loss,beginner,8
+28,185,62,fitness,intermediate,3
+59,152,50,weight loss,advanced,3
+18,171,120,fitness,advanced,5
+28,190,79,fitness,advanced,5
+19,178,98,weight loss,beginner,7
+44,165,107,muscle building,beginner,6
+54,151,70,muscle building,intermediate,7
+52,178,102,weight loss,advanced,4
+20,166,69,muscle building,beginner,5
+56,197,118,muscle building,beginner,6
+29,182,64,muscle building,beginner,5
+26,199,54,weight loss,beginner,7
+41,184,71,fitness,intermediate,4
+49,164,66,fitness,advanced,5
+35,175,96,fitness,intermediate,4
+60,162,116,fitness,intermediate,4
+23,163,106,muscle building,intermediate,7
+53,171,78,fitness,advanced,6
+58,171,82,weight loss,advanced,4
+45,183,79,fitness,intermediate,4
+44,183,85,muscle building,beginner,6
+49,166,53,fitness,intermediate,3
+57,161,58,fitness,intermediate,3
+49,192,71,weight loss,beginner,8
+24,162,76,fitness,advanced,5
+45,153,61,fitness,advanced,5
+20,163,85,muscle building,intermediate,7
+26,175,59,weight loss,advanced,3
+53,152,61,muscle building,beginner,5
+21,186,73,fitness,intermediate,3
+30,183,97,fitness,advanced,6
+48,186,114,fitness,advanced,6
+24,180,100,fitness,advanced,5
+52,153,118,weight loss,beginner,8
+41,192,84,muscle building,beginner,6
+27,189,77,fitness,intermediate,3
+34,161,60,muscle building,intermediate,7
+30,168,113,weight loss,beginner,8
+43,177,55,muscle building,beginner,5
+31,154,88,fitness,intermediate,3
+32,181,78,muscle building,intermediate,7
+20,157,60,weight loss,advanced,3
+42,173,88,fitness,intermediate,4
+60,199,62,weight loss,advanced,4
+60,179,70,fitness,intermediate,4
+33,185,98,fitness,advanced,6
+40,185,107,weight loss,beginner,8
+20,174,81,fitness,intermediate,3
+51,166,89,weight loss,beginner,8
+39,153,67,weight loss,beginner,7
+24,192,85,weight loss,beginner,7
+34,195,111,muscle building,intermediate,8
+47,177,86,fitness,advanced,6
+38,169,113,muscle building,beginner,6
+47,180,59,muscle building,intermediate,7
+21,181,106,weight loss,beginner,7
+21,164,57,weight loss,beginner,7
+60,182,80,fitness,intermediate,4
+40,174,113,muscle building,intermediate,8
+55,162,89,muscle building,beginner,6
+51,193,91,fitness,intermediate,4
+53,167,57,weight loss,beginner,7
+20,187,56,weight loss,beginner,7
+40,193,63,fitness,advanced,6
+33,200,64,fitness,advanced,6
+55,164,109,weight loss,advanced,4
+37,189,104,fitness,intermediate,4
+31,184,119,muscle building,intermediate,8
+18,185,97,weight loss,advanced,3
+35,153,109,fitness,intermediate,3
+54,164,98,muscle building,beginner,6
+54,169,102,weight loss,advanced,4
+48,164,82,weight loss,advanced,3
+52,181,118,muscle building,beginner,6
+30,173,70,weight loss,beginner,7
+37,161,82,muscle building,intermediate,7
+51,167,113,weight loss,beginner,8
+23,168,92,weight loss,advanced,3
+47,194,67,muscle building,intermediate,8
+34,160,111,fitness,intermediate,3
+27,159,105,weight loss,beginner,7
+56,164,82,muscle building,intermediate,8
+30,161,83,weight loss,advanced,3
+53,164,85,muscle building,beginner,6
+30,166,89,muscle building,intermediate,7
+43,153,81,muscle building,intermediate,7
+45,169,105,fitness,advanced,6
+53,165,94,weight loss,beginner,8
+20,198,94,muscle building,beginner,6
+26,199,80,muscle building,beginner,6
+32,178,115,muscle building,beginner,6
+57,198,104,muscle building,intermediate,8
+38,152,73,weight loss,beginner,7
+40,161,79,fitness,intermediate,3
+34,152,78,muscle building,intermediate,7
+38,188,66,fitness,intermediate,3
+42,181,59,weight loss,beginner,7
+37,176,87,weight loss,beginner,8
+29,197,71,muscle building,intermediate,8
+57,153,67,weight loss,advanced,3
+34,167,62,muscle building,intermediate,7
+37,171,59,weight loss,advanced,3
+47,164,62,weight loss,beginner,7
+22,185,93,weight loss,advanced,3
+20,162,69,fitness,intermediate,3
+41,150,58,fitness,intermediate,3
+21,173,51,weight loss,advanced,3
+46,174,54,weight loss,advanced,3
+18,158,97,weight loss,advanced,3
+46,154,76,weight loss,advanced,3
+28,182,76,weight loss,advanced,3
+31,151,60,weight loss,advanced,3
+54,161,67,fitness,intermediate,3
+28,150,98,fitness,intermediate,3
+29,157,108,weight loss,advanced,3
+18,154,120,weight loss,advanced,3
+32,156,120,fitness,intermediate,3
+25,167,87,fitness,intermediate,3
+36,172,66,weight loss,advanced,3
+31,185,71,weight loss,advanced,3
+29,178,92,weight loss,advanced,3
+31,160,51,fitness,intermediate,3
+23,159,107,fitness,intermediate,3
+18,174,63,fitness,intermediate,3
+24,181,57,fitness,intermediate,3
+20,168,113,fitness,intermediate,3
+25,177,94,fitness,intermediate,3
